@@ -1,0 +1,6 @@
+client/node_modules
+
+config/default.json
+node_modules
+node_modules\
+config/production.json
